@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/hemanuela/testimonials-grid-section-main/blob/main/design/myscreenshot.jpg)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here :)](https://github.com/hemanuela/testimonials-grid-section-main)
+- Live Site URL: [Here!](https://hemanuela.github.io/testimonials-grid-section-main/)
 
 ## My process
 
@@ -58,7 +58,7 @@ o/ I could put in practice some adjusments with divs, rem, margin and grid + fle
 
 ## Author
 
-- Website - [My github](https://www.your-site.com)
+- Website - [My github](https://github.com/hemanuela)
 - Frontend Mentor - [@hemanuela](https://www.frontendmentor.io/profile/hemanuela)
 
 
