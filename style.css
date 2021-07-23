@@ -57,6 +57,8 @@ main h1 {
 
 .testimonial {
     opacity: .7;
+
+    line-height: 1.2rem;
 }
 
 .verified {
@@ -76,6 +78,9 @@ main h1 {
     grid-area: box-1;
     background-color: hsl(263, 55%, 52%);
     color: hsl(0, 0%, 100%);
+    background-image: url("./images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: 23rem 0.2rem;
 }
 
 .box-1 img {  
@@ -100,6 +105,7 @@ main h1 {
     grid-area: box-3;
     background-color:hsl(0, 0%, 100%);
     color:hsl(217, 19%, 35%);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 }
 
 .box-3 img {  
@@ -124,6 +130,7 @@ main h1 {
     grid-area: box-5;
     background-color:hsl(0, 0%, 100%);
     color:hsl(217, 19%, 35%);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 }
 
 .box-5 img {  
@@ -136,8 +143,13 @@ main h1 {
     main {
         display: flex;
         flex-direction: column;
-        width: 23.4rem;
+        width: 20.2rem;
         margin: 2rem;
     }
+
+    /** BOX-1 **/
+    .box-1 {
+        background-position: 11.5rem 0.2rem;
+}
 
 }
